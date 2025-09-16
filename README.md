@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Naman yadav</h1>
-<h3 align="center">I am a first-year developer passionate about coding .</h3>
+<h3 align="center">I am a second-year developer passionate about coding .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanyadav18&label=Profile%20views&color=0e75b6&style=flat" alt="namanyadav18" /> </p>
 
